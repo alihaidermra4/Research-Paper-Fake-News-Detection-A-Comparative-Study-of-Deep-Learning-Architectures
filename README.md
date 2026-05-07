@@ -1,5 +1,4 @@
-# Fake News Detection: A Comparative Study of Deep Learning Architectures
-
+# Assessing the Effectiveness of Modern Deep Learning Architectures in Multi-Label News Categorization
 ## Overview
 
 This repository contains the implementation for a systematic benchmarking study of deep learning sequence models applied to binary fake news classification. Seven architectures — CNN, CNN+RNN, Bidirectional RNN, LSTM, Bidirectional LSTM, GRU, and Bidirectional GRU — are evaluated on the Kaggle Fake-and-Real News Dataset to identify the most effective architecture for this task.
@@ -102,7 +101,7 @@ The Bidirectional GRU outperforms all other architectures, confirming that bidir
 If you use this work, please cite the corresponding IJIST article:
 
 ```
-[Author(s)]. Fake News Detection: A Comparative Study of Deep Learning Architectures.
+[Author(s)]. Assessing the Effectiveness of Modern Deep Learning Architectures in Multi-Label News Categorization.
 International Journal of Innovative Science and Technology (IJIST).
 Available: https://journal.50sea.com/index.php/IJIST/article/view/1857
 ```
